@@ -1,9 +1,9 @@
 {
-  "courseTitle": "Cambridge Spanish — Level 1",
-  "languageCode": "es",
+  "courseTitle": "New Testament Greek",
+  "languageCode": "el",
   "landingCopy": {
-    "heading": "Bienvenido",
-    "subheading": "Start your Spanish journey"
+    "heading": "Χαίρετε",
+    "subheading": "Start reading the New Testament in Greek"
   },
   "logo": "logo.svg",
   "favicon": "favicon.svg"
